@@ -1,3 +1,10 @@
 .gradle
 .idea
-build
+build/
+gradle
+.gitpod.yml
+.travis.yml
+dummyFile
+gradlew.bat
+gradlew
+
